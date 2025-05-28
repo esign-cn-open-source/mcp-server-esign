@@ -289,6 +289,7 @@ function getCommonHeaders(
         'X-Tsign-Open-App-Id': config.appId,
         'X-Tsign-Open-Auth-Mode': 'Signature',
         'Accept': '*/*',
+        'User-Agent': 'esign-mcp-server-typescript-V1.1.2',
         'X-Tsign-Open-Ca-Timestamp': String(Date.now())
     };
 
