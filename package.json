@@ -1,7 +1,7 @@
 {
   "main": "build/index.js",
   "name": "mcp-server-esign",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "支持 ai mcp 电子签名",
   "type": "module",
   "bin": {
